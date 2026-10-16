@@ -1,4 +1,4 @@
-# 🎓 Learning Digital - Learning Management System (LMS)
+# 🎓 Belajar Digital - Learning Management System (LMS)
 
 Sistem Manajemen Pembelajaran Digital berbasis web yang dibangun dengan PHP dan MySQL untuk mengelola kursus online, mahasiswa, dan progres pembelajaran.
 
